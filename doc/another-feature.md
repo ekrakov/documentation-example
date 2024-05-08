@@ -1,14 +1,9 @@
-# More features here
+# Installation 
 
 
-## Some text
+## blahbblah
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Only dinos diagonalize 3x3 matrices by hand! 
 
 
 ## Table
@@ -22,30 +17,20 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Code blocks
+## Instructions 
 
-The following is a Python code block:
+
 ```python
-  def hello():
-      print("Hello world")
-```
-
-And this is a C code block:
-```c
-#include <stdio.h>
-int main()
-{
-    printf("Hello, World!");
-    return 0;
-}
+  def blah(x)
+      pass:
 ```
 
 
-## Math
+
+## Latex works too 
 
 This creates an equation:
 ```{math}
-a^2 + b^2 = c^2
+\pi_j p_{jk}=\pi_k p_{kj}
 ```
 
-This is an in-line equation, {math}`a^2 + b^2 = c^2`, embedded in text.
