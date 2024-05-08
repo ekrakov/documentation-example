@@ -2,7 +2,7 @@
 
 ## Subsection
 
-Dislocations are cool!
+Band Structures!
 
 - item 1
 
