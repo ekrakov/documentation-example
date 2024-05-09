@@ -11,7 +11,7 @@ docs/<page_title_here>.md
 
 After you create the page, open ```docs/index.rst```
 
-in ```docs/index.rst```, add ```<page_title_here>.md``` in your desired order. 
+ add ```<page_title_here>.md``` to ```docs/index.rst```
 
 
 ```bash
@@ -25,6 +25,7 @@ Welcome to Open Dis documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   <page_title_here>.md
    examples.md
    installation.md
 ```
