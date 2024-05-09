@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'BandAid'
-copyright = 'workshop participant'
-author = 'workshop participant'
+copyright = 'BandAid'
+author = 'Eliana Krakovsky'
 release = '0.1'
 
 
